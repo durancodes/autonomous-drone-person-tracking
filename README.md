@@ -1,4 +1,4 @@
-#Autonomous Drone Person Tracking
+# Autonomous Drone Person Tracking
 An end-to-end autonomous drone tracking system that integrates advanced computer vision, real-time drone telemetry, and closed-loop control. Developed in association with OEG DEFENCE & AEROSPACE Pvt. Ltd., this project enables a drone to identify, lock onto, and autonomously track a user-selected person in real-time.
 
 🚀 Overview
